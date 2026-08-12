@@ -1,8 +1,0 @@
-[
-  {
-    "id": "2026-08-12-welcome",
-    "title": "欢迎使用 UltraClarity",
-    "content": "这是一条测试公告。以后发公告：把 announcements.json 上传到你 GitHub 仓库根目录，App 每次启动会自动拉取。id 改成新的，用户才会再看到。",
-    "date": "2026-08-12"
-  }
-]
