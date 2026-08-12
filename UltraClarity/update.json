@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
-  "force": true,
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "force": false,
   "quarkUrl": "https://pan.quark.cn/s/xxxxxxxxx",
   "notes": "更新说明写这里，支持多行"
 }
