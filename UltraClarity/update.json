@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
+  "versionCode": 1,
+  "versionName": "1.0.0",
   "force": false,
   "quarkUrl": "https://pan.quark.cn/s/5c0ef6bb4bf7?pwd=bnWe",
-  "notes": "测试更新弹窗：\n· 点「去更新」跳转夸克网盘\n· 提取码：bnWe（未自动填入请手动输入）\n· 点「暂不更新」关闭弹窗"
+  "notes": "UltraClarity 1.0.0 正式版：\n· 50 款超分模型全内置\n· 图片本地处理，不上传服务器"
 }
